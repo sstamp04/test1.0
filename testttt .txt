@@ -1,3 +1,4 @@
 name : Boontarika Boonyakarn 
 nickname : Stamp
 age : 20
+my profile
